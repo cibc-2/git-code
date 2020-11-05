@@ -1,0 +1,12 @@
+Which commands is use to display all the commits? git log
+default branch -- master
+git remote add <ALIAS name><url-RR>
+git remote add eb https://github.com/mylandmarktechs/ebay.git
+git remote add eb https://github.com/mylandmarktechs/ebay.git
+
+git remote add ep https://github.com/mylandmarktechs/ebay.git
+
+git remote -v  # List REMOTE REPO mapping details
+git remote remove eb
+
+git push -u eb master
